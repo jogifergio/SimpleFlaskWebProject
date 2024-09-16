@@ -1,14 +1,2 @@
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# Praktikum11Flask
-# Praktikum11Flask
-# Praktikum11Flask
-# Praktikum11Flask
-# Praktikum11Flask
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
-# SimpleFlaskWebProject
+# 3323600041 Robi'atul Adawiya
+# 3323600060 Jogi Fergio Schumacher 
